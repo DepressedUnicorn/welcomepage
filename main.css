@@ -14,9 +14,33 @@ body {
  background-color; blue;
 }
 
+head {
+  height: 10vh;
+  width: 100%;
+  background-color: white;
+}
+
 section {
+position: relative;
 height: 100vh;
 width: auto;
 background-color: green;
+}
+
+main {
+  position: relative;
+  height: auto;
+  width: auto;
+  background-color: white;
+  justify-content: center;
+  text-align: center;
+}
+
+.about {
+  position: relative;
+  height: auto;
+  width: auto;
+  background-color: grey;
+  justify-content: center;
 }
 
