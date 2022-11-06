@@ -30,6 +30,14 @@ main {
   text-align: center;
 }
 
+.title-page {
+  position: relative;
+  height: 100vh;
+  widht: auto;
+  justify-content: center;
+  text-align: center;
+}
+
 .about {
   position: relative;
   height: auto;
