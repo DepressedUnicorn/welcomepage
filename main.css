@@ -14,12 +14,6 @@ body {
  background-color; blue;
 }
 
-head {
-  height: 10vh;
-  width: 100%;
-  background-color: white;
-}
-
 section {
 position: relative;
 height: 100vh;
