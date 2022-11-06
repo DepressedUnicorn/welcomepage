@@ -23,7 +23,7 @@ background-color: green;
 
 main {
   position: relative;
-  height: auto;
+  height: 15vh;
   width: auto;
   background-color: white;
   justify-content: center;
