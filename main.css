@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+}
+
+html {
+  height: auto;
+  width: auto;
+  background-color: black;
+}
+
+body {
+ height: 200vh;
+ width: auto;
+ background-color; blue;
+}
+
+section {
+height: 100vh;
+width: auto;
+background-color: green;
+}
+
