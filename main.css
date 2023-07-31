@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+}
+
+html {
+  height: auto;
+  width: auto;
+  background-color: black;
+}
+
+body {
+ height: 200vh;
+ width: auto;
+ background-color; blue;
+}
+
+section {
+position: relative;
+height: 100vh;
+width: auto;
+background-color: green;
+}
+
+main {
+  position: relative;
+  height: 15vh;
+  width: auto;
+  background-color: white;
+  justify-content: center;
+  text-align: center;
+}
+
+.title-page {
+  position: relative;
+  height: 100vh;
+  widht: auto;
+  justify-content: center;
+  text-align: center;
+}
+
+.about {
+  position: relative;
+  height: auto;
+  width: auto;
+  background-color: grey;
+  justify-content: center;
+}
+
